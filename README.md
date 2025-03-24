@@ -1,7 +1,6 @@
 # SelamAlabdo_metro_simulation
 
 
-# Ankara Metro Ağı Simülasyonu
 Bu proje, Ankara metrosunun belirli hatlarını ve istasyonlarını modelleyerek farklı güzergah seçenekleri sunan, nesne tabanlı bir simülasyon uygulamasıdır. Kullanıcı, istasyonlar arasında en az aktarmalı veya en hızlı rotayı hesaplayabilir, ayrıca metro ağı grafiksel olarak görselleştirilebilir.
 ---
 ## İçindekiler
